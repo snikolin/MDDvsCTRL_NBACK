@@ -10,10 +10,10 @@ Tasks were presented in the following order:
   0-, 1-, and 2-back tasks;
   
 
-EEG PROCESSING:
+EEG PROCESSING PIPELINE:
 Scripts can be run using MATLAB. 
 Although not tested, open-source sofware Octave may also be able to run the scripts.
-The MDDvsCTRL_pipeline calls all other scripts and coordinates processing steps. 
+The MDDvsCTRL_pipeline script calls all other scripts/functions and coordinates processing steps. 
 
 
 SPSS STATISTICAL ANALYSES:
